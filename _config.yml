@@ -7,3 +7,5 @@ keywords:
 author: 农夫山泉有的甜
 language: zh-Hans
 timezone: ''
+
+theme: jekyll-theme-cayman
