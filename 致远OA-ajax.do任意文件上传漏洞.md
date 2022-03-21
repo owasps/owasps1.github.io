@@ -1,15 +1,12 @@
 # 致远OA-ajax.do任意文件上传漏洞
-
-
+<br/>
 
 渗透测试网站前必须签订渗透测试授权书，若私自渗透网站，后果自负
 
 具体处罚见《中华人民共和国网络安全法》
 
 本文经对某公司签过渗透测试授权书下进行。
-
-
-
+<br/>
 **致远OA-ajax.do任意文件上传漏洞复现:**
 
 
@@ -56,7 +53,7 @@ poc脚本如下：
 
 <img src="https://github.com/rmrfstop/rmrfstop.github.io/blob/%E8%87%B4%E8%BF%9COA/3.png">
 
-返回响应200，成功
+4.返回响应200，成功
 
 <img src="https://github.com/rmrfstop/rmrfstop.github.io/blob/%E8%87%B4%E8%BF%9COA/4.png">
 
