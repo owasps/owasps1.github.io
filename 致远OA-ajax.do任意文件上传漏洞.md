@@ -40,7 +40,7 @@
 
 1.致远OA V8 前台
 
-![image-20220321134947277](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20220321134947277.png)
+https://github.com/rmrfstop/rmrfstop.github.io/blob/%E8%87%B4%E8%BF%9COA/1.png
 
 2.可能存在漏洞路径：
 
