@@ -48,21 +48,21 @@
 http://ip:port/seeyon/thirdpartyController.do.css/..;/ajax.do
 ```
 
-![image-20220321134736890](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20220321134736890.png)
+<img src="https://github.com/rmrfstop/rmrfstop.github.io/blob/%E8%87%B4%E8%BF%9COA/2.png">
 
 3.使用poc脚本进行测试，验证漏洞是否存在：
 
 poc脚本如下：
 
-![image-20220321140607189](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20220321140607189.png)4.使用burp抓包进行测试：
+<img src="https://github.com/rmrfstop/rmrfstop.github.io/blob/%E8%87%B4%E8%BF%9COA/3.png">
 
 返回响应200，成功
 
-![image-20220321135520842](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20220321135520842.png)
+<img src="https://github.com/rmrfstop/rmrfstop.github.io/blob/%E8%87%B4%E8%BF%9COA/4.png">
 
 5.出现以下异常，则可能存在漏洞。
 
-![image-20220321135825822](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20220321135825822.png)
+<img src="https://github.com/rmrfstop/rmrfstop.github.io/blob/%E8%87%B4%E8%BF%9COA/5.png">
 
 
 
@@ -74,4 +74,4 @@ poc脚本如下：
 
 成功拿到管理员权限：
 
-![image-20220321140335645](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20220321140335645.png)
+<img src="https://github.com/rmrfstop/rmrfstop.github.io/blob/%E8%87%B4%E8%BF%9COA/6.png">
