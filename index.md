@@ -73,20 +73,35 @@ poc脚本如下：
 
 6.冰蝎连接shell
 
+```
 路径： http://ip:port/seeyon/SeeyonUpdate1.jspx
+```
 
+```
 密码： rebeyond
+```
 
 成功拿到管理员权限：
 
 <img src="https://raw.githubusercontent.com/rmrfstop/rmrfstop.github.io/ZY_OA/6.png">
+
+<br/>
+
+7.修复建议：
+
+目前，致远OA官方已发布补丁完成漏洞修复，CNVD平台建议用户立即通过官方网站安装最新补丁建议使用致远OA系统构建网站的信息系统运营者进行自查，发现存在漏洞后，及时升级或联系致远公司。
+补丁链接：
+
+```
+http://service.seeyon.com/patchtools/tp.html#/patchList?type=%E5%AE%89%E5%85%A8%E8%A1%A5%E4%B8%81&id=1
+```
 
 
 <br><br><br><br>
 
 
 
-<h1></h1>
+
 ## 安全服务问题
 
 #### 扫描器工作原理
