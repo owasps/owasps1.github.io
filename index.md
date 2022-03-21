@@ -41,7 +41,7 @@
 
 1.致远OA V8 前台
 
-<img src="https://github.com/rmrfstop/rmrfstop.github.io/blob/ZY_OA/1.png">
+<img src="https://raw.githubusercontent.com/rmrfstop/rmrfstop.github.io/ZY_OA/1.png">
 
 <br/>
 
@@ -51,28 +51,24 @@
 http://ip:port/seeyon/thirdpartyController.do.css/..;/ajax.do
 ```
 
-<img src="https://github.com/rmrfstop/rmrfstop.github.io/blob/ZY_OA/2.png">
-
+<img src="https://raw.githubusercontent.com/rmrfstop/rmrfstop.github.io/ZY_OA/2.png">
 <br/>
 
 3.使用poc脚本进行测试，验证漏洞是否存在：
 
 poc脚本如下：
 
-<img src="https://github.com/rmrfstop/rmrfstop.github.io/blob/ZY_OA/3.png">
-
+<img src="https://raw.githubusercontent.com/rmrfstop/rmrfstop.github.io/ZY_OA/3.png">
 <br/>
 
 4.返回响应200，成功
 
-<img src="https://github.com/rmrfstop/rmrfstop.github.io/blob/ZY_OA/4.png">
-
+<img src="https://raw.githubusercontent.com/rmrfstop/rmrfstop.github.io/ZY_OA/4.png">
 <br/>
 
 5.出现以下异常，则可能存在漏洞。
 
-<img src="https://github.com/rmrfstop/rmrfstop.github.io/blob/ZY_OA/5.png">
-
+<img src="https://raw.githubusercontent.com/rmrfstop/rmrfstop.github.io/ZY_OA/5.png">
 <br/>
 
 6.冰蝎连接shell
@@ -83,8 +79,7 @@ poc脚本如下：
 
 成功拿到管理员权限：
 
-<img src="https://github.com/rmrfstop/rmrfstop.github.io/blob/ZY_OA/6.png">
-
+<img src="https://raw.githubusercontent.com/rmrfstop/rmrfstop.github.io/ZY_OA/6.png">
 
 
 <br><br><br><br>
