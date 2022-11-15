@@ -101,7 +101,7 @@ http://service.seeyon.com/patchtools/tp.html#/patchList?type=%E5%AE%89%E5%85%A8%
 <br><br><br><br><br><br>
 
 
-'''
+<!--
 
 # 安全服务问题
 
@@ -217,5 +217,5 @@ struts2-048 远程代码执行
 
 所以我们可以简单的想 中国菜刀发的这么一个包 包的代码是打开指定目录的句柄，然后进行循环扫描，并附带上权限、时间、大小、日期 这个包我这里用package来代替 所以在操作的时候其实就是 key = package 然后通过eval函数执行package的php代码 从而最终达成目的
 中国菜刀 发一个包，包的代码是打开目录的
-*/
-'''
+
+ -->
